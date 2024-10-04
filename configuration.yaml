@@ -1,4 +1,8 @@
 origin_prefixes:
+    hienbui: 'git@github.com:xuanhien070594/'
+    ssh-hienbui: 'git@github.com:xuanhien070594/'
+    https-hienbui: 'https://github.com/xuanhien070594'
+    
     mim: 'git@github.com:machines-in-motion/'
     ssh-mim: 'git@github.com:machines-in-motion/'
     https-mim: 'https://github.com/machines-in-motion/'
