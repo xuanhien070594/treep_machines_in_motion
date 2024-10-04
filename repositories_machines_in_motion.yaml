@@ -54,7 +54,7 @@ robot_properties_bolt:
     origin: odri
 robot_properties_fingers:
     path: src/
-    origin: odri
+    origin: hienbui
 robot_properties_nyu_finger:
     path: src/
     origin: odri
@@ -76,13 +76,13 @@ slider_box:
 # Robot-specific repos
 robot_fingers:
     path: src/
-    origin: odri
+    origin: hienbui
 trifinger_cameras:
     path: src/
-    origin: odri
+    origin: hienbui
 trifinger_object_tracking:
     path: src/
-    origin: odri
+    origin: hienbui
 test_bench:
     path: src/
     origin: odri
@@ -197,7 +197,7 @@ ati_ft_sensor:
     origin: odri
 blmc_drivers:
     path: src/
-    origin: odri
+    origin: hienbui
 master-board:
     path: src/
     origin: odri
