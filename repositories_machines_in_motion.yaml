@@ -77,6 +77,10 @@ slider_box:
 robot_fingers:
     path: src/
     origin: hienbui
+trifinger_msgs:
+    path: src/
+    origin: hienbui
+    branch: main
 trifinger_cameras:
     path: src/
     origin: hienbui

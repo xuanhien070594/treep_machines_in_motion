@@ -176,6 +176,7 @@ ROBOT_FINGERS_DEPENDENCIES:
       'trifinger_object_tracking',
       'robot_properties_fingers',
       'trifinger_simulation',
+      'trifinger_msgs'
     ]
 ROBOT_FINGERS:
     parent_projects: ['ROBOT_FINGERS_DEPENDENCIES']
